@@ -1,0 +1,47 @@
+.bg-color-all{
+
+    background-color:#E9ECEF ;
+}
+button:hover{
+
+    background-color: aqua;
+    border: 5px;
+    box-shadow: 5px;
+    height: 32px;
+    border-radius: 30px;
+
+}
+
+
+.imggitar{
+
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+    margin-left:70px;
+    border:solid 3px;
+    border-color: #E9ECEF;
+    box-shadow:2px 2px #595953 ;
+}
+.row .card1{
+
+    box-sizing: 3px 3px #595953;
+
+}
+
+.productspage{
+    border:solid 1px;
+    margin-left: 38%;
+    border-radius: 10%; 
+}
+
+.productspage:hover{
+
+    background:plum;
+    border-radius: 10%; 
+    box-shadow: 10px 2px pink;
+}
+
+
+
+
